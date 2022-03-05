@@ -130,7 +130,7 @@ behan(X,Y):- gins(aurat,X),parents(Z,X) ,parents(Z,Y), Y\=X.
 bhai(X,Y):- gins(mard,X), parents(Z,X), parents(Z,Y), Y\=X.
 
 
-#Python File
+/////Python File
 
 from pyswip import Prolog
 
