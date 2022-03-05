@@ -1,4 +1,4 @@
-# Prolog-Khan-Family
+# Prolog File
 
 %Mianbiwi logic
 
